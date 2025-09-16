@@ -1,7 +1,7 @@
 # Sistem Akademik - Proyek PHP
 
 **Nama**: Wyandhanu Maulidan Nugraha  
-**NIM**: 24151109  
+**NIM**: 241511092  
 **Kelas**: 2C  
 
 ## Deskripsi Proyek
